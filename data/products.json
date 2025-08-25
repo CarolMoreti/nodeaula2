@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "nome": "iPhone 15 Pro",
+    "preco": 1299.99,
+    "descricao": "Smartphone Apple com 128GB, câmera profissional e chip A17 Pro",
+    "categoria": "Eletrônicos",
+    "imagem": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "nome": "Nike Air Max",
+    "preco": 299.9,
+    "descricao": "Tênis esportivo confortável e moderno",
+    "categoria": "Esportes",
+    "imagem": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "nome": "MacBook Pro M3",
+    "preco": 2499.99,
+    "descricao": "Notebook profissional com chip M3 e tela Retina de 14 polegadas",
+    "categoria": "Eletrônicos",
+    "imagem": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400&h=400&fit=crop",
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "gdrive-1755636436922",
+    "nome": "Imagem do Google Drive",
+    "preco": 0,
+    "descricao": "Esta é uma imagem carregada do Google Drive.",
+    "categoria": "Geral",
+    "imagem": "https://drive.google.com/uc?export=view&id=1oj8d7LXfWPKrLV8-i2crZLRt5fCLZtk4",
+    "createdAt": "2025-08-19T21:00:00.000Z",
+    "updatedAt": "2025-08-19T21:00:00.000Z"
+  },
+  {
+    "id": "1755643605332",
+    "nome": "teste123",
+    "preco": 0.01,
+    "descricao": "teste1",
+    "categoria": "Geral",
+    "imagem": "https://drive.google.com/file/d/1oj8d7LXfWPKrLV8-i2crZLRt5fCLZtk4/view?usp=sharing",
+    "createdAt": "2025-08-19T22:46:45.332Z",
+    "updatedAt": "2025-08-19T22:47:45.242Z"
+  },
+  {
+    "id": "1755643778763",
+    "nome": "teste2",
+    "preco": 0.01,
+    "descricao": "teste de imagem",
+    "categoria": "Geral",
+    "imagem": "https://drive.google.com/file/d/1oj8d7LXfWPKrLV8-i2crZLRt5fCLZtk4/view?usp=sharing",
+    "createdAt": "2025-08-19T22:49:38.763Z",
+    "updatedAt": "2025-08-19T22:49:38.763Z"
+  },
+  {
+    "id": "1755644401884",
+    "nome": "teste3",
+    "preco": 0.01,
+    "descricao": "teste",
+    "categoria": "Geral",
+    "imagem": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/CU6HU7WMEVF2THSPFT7RBQXFWM.jpeg",
+    "createdAt": "2025-08-19T23:00:01.884Z",
+    "updatedAt": "2025-08-19T23:00:01.884Z"
+  },
+  {
+    "id": "1755645063606",
+    "nome": "teste",
+    "preco": 0.03,
+    "descricao": "teste maçã",
+    "categoria": "Geral",
+    "imagem": "https://drive.google.com/file/d/1IY1Xs3BCrNB8zvG2iGFcyl5MzRQOW5lq/view?usp=sharing",
+    "createdAt": "2025-08-19T23:11:03.606Z",
+    "updatedAt": "2025-08-19T23:11:03.606Z"
+  }
+]
